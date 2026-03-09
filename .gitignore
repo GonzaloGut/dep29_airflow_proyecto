@@ -1,0 +1,9 @@
+# Environments
+__pycache__/
+.env
+.venv/
+
+# Ignorar todos los logs de Airflow
+logs/
+*.log
+*logs
