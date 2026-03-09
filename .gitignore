@@ -7,3 +7,6 @@ __pycache__/
 logs/
 *.log
 *logs
+
+# Ignorar credenciales y entorno
+google_credentials.json
