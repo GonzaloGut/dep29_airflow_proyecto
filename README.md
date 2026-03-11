@@ -25,8 +25,3 @@ GCP_PROJECT_ID=tu-id-de-proyecto
 PUB_SUB_TOPIC=nombre-del-topic
 PUB_SUB_SUBSCRIPTION=nombre-de-suscripcion
 GCP_SERVICE_ACCOUNT_KEY=/ruta/en/contenedor/key.json
-
-Ejecutar con Docker Compose:
-```bash
-docker-compose up airflow-init
-docker-compose up -d
